@@ -1,0 +1,24 @@
+h1 {
+    color: brown;
+    font-size: 70px;
+}
+body {
+    background-color: bisque;
+}
+p {
+    color: rgba(150, 146, 76, 0.807);
+    font-size: 28px;
+}
+.header {
+    color: rgba(205, 134, 63, 0.589);
+}
+.para {
+    color: chocolate;
+}
+.graph {
+    color: darksalmon;
+}
+#done {
+    color: brown;
+    font-size: 30px;
+}
