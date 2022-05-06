@@ -1,0 +1,15 @@
+h1 {
+    color: blueviolet;
+    font-size: 40px;
+}
+p {
+    color: darkmagenta;
+    font-size: 22px;
+}
+body {
+    background-color: lavender;
+    color: gray;
+}
+.first {
+    font-size: 34px;
+}
